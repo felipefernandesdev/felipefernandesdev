@@ -4,7 +4,7 @@ Olá, sou Felipe Fernandes, um entusiasta apaixonado por tecnologia, especializa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,js,ts,nodejs,express,redis,jest,mongodb,postgres,mysql,nestjs,react,nextjs,flutter,cs,dotnet,dart,go,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,git,js,ts,nodejs,express,deno,redis,rabbitmq,jest,mongodb,postgres,mysql,nestjs,react,nextjs,flutter,cs,dotnet,dart,go,visualstudio,webstorm,vscode" />
   </a>
 </p>
 
