@@ -4,7 +4,7 @@ Olá, sou Felipe Fernandes, um entusiasta apaixonado por tecnologia, especializa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,js,ts,nodejs,express,redis,jest,mongodb,postgres,mysql,nestjs,react,nextjs,go,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,git,js,ts,nodejs,express,redis,jest,mongodb,postgres,mysql,nestjs,react,nextjs,flutter,cs,dotnet,dart,go,vscode" />
   </a>
 </p>
 
@@ -23,11 +23,16 @@ Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos desafia
   - NodeJS
   - ExpressJS
   - NestJS
+  - C# .NET
+  - Dart
   - GO Lang
 
 - **Front-end:**
   - ReactJS
   - NextJS
+
+- **Mobile:**
+  - Flutter 
 
 - **Banco de Dados:**
   - MongoDB
