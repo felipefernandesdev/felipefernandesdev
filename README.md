@@ -3,6 +3,22 @@
 Olá, sou Felipe Fernandes, um entusiasta apaixonado por tecnologia, especializado em diversas tecnologias e ferramentas de desenvolvimento. Minhas principais áreas de expertise incluem:
 
 <p align="center">
+  <a>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefernandesdev&layout=compact"
+    />
+  </a>
+  <a>
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=felipefernandesdev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,js,ts,nodejs,express,deno,redis,rabbitmq,jest,mongodb,postgres,mysql,nestjs,react,nextjs,flutter,cs,dotnet,dart,go,visualstudio,webstorm,vscode" />
   </a>
