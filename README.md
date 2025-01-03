@@ -42,6 +42,7 @@ Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos desafia
   - C# .NET
   - Dart
   - GO Lang
+  - Python
 
 - **Front-end:**
   - ReactJS
